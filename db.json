@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Michael",
+      "lname": "Sweeney"
+    },
+    {
+      "id": 2,
+      "fname": "Calvin",
+      "lname": "Wilson"
+    },
+    {
+      "id": 3,
+      "fname": "Chris",
+      "lname": "Bergstrom"
+    },
+    {
+      "id": 4,
+      "fname": "Mark",
+      "lname": "Medeiros"
+    }
+  ],
+  "widgets": [
+    {
+      "id": 1,
+      "name": "widget1",
+      "img": "http://placehold.it/200?text=widget1"
+    },
+    {
+      "id": 2,
+      "name": "widget2",
+      "img": "http://placehold.it/200?text=widget2"
+    },
+    {
+      "id": 3,
+      "name": "widget3",
+      "img": "http://placehold.it/200?text=widget3"
+    }
+  ]
+}
